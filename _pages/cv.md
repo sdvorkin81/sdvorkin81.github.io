@@ -33,11 +33,11 @@ Work experience
   * University of California, Santa Cruz
   * Supervisor: Asst. Professor Nikolas Sgourakis
   
- * Aug 2018 to Dec 2019: NMR Spectroscopist
+* Aug 2018 to Dec 2019: NMR Spectroscopist
   * Almac Discovery, Belfast, Northern Ireland
   * Line Manager: Colin O'Dowd
   
- * Nov 2016 to Aug 2018: Post Doctoral Fellow
+* Nov 2016 to Aug 2018: Post Doctoral Fellow
   * Almac Discovery, Belfast, Northern Ireland
   * Line Manager: Colin O'Dowd
   
@@ -45,7 +45,7 @@ Work experience
   Education
 ======
 * B.Sc. Biomedical Science - Coleraine, Northern Ireland, UK, Ulster University, 2012
-* M.S. Pharmaceutical Science - Coleraine, Northern Ireland, UK, Ulster University, 2013
+* M.Sc. Pharmaceutical Science - Coleraine, Northern Ireland, UK, Ulster University, 2013
 * Ph.D Biophysics - Coleraine, Northern Ireland, UK, Ulster University, 2017
 
 
