@@ -1,4 +1,4 @@
-c# main links links
+ic# main links links
 main:
   - title: "Publications"
     url: /publications/
@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Services"
+    url: /services/
     
   - title: "CV"
     url: /cv/
