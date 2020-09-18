@@ -6,7 +6,7 @@ excerpt: 'A contributing factor to the emergence of castrate resistant prostate 
 date: 2014-01-13
 venue: 'Prostate'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/pros.22748'
-citation: 'Doherty, D. D., Dvorkin, S. A., Rodriguez, E. P., Thompson, P. D. . (2014). &quot;Paper Title Number 2.&quot; <i>Prostate</i>. 74(3).'
+citation: 'Doherty, D. D., Dvorkin, S. A., Rodriguez, E. P., Thompson, P. D. . (2014). &quot;Vitamin D receptor agonist EB1089 is a potent regulator of prostatic “intracrine” metabolism.&quot; <i>Prostate</i>. 74(3).'
 ---
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/full/10.1002/pros.22748)
