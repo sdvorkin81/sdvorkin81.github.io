@@ -38,8 +38,8 @@ Work experience
   * Line Manager: Colin O'Dowd
   
 * Nov 2016 to Aug 2018: Post Doctoral Fellow
-  * Almac Discovery, Belfast, Northern Ireland
-  * Line Manager: Colin O'Dowd
+  * Queen's University, Belfast, Northern Ireland
+  * Line Manager: Tim Harrison
   
   
   Education
