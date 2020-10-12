@@ -1,6 +1,6 @@
 ---
 title: "High Throughput Fragment Screening"
-excerpt: "Fragment Screening by NMR as a high throughput method for early stage drug discovery <br/><img src='/images/500x300.png'>"
+excerpt: "Fragment Screening by NMR as a high throughput method for early stage drug discovery <br/><img src='/images/screening1_500x207.png'>"
 collection: portfolio
 ---
 
