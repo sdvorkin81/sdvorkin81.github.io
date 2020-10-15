@@ -1,6 +1,6 @@
 ---
 title: "Structure Characterization & Determination"
-excerpt: "Characterize biophysical properties of target molecules, or have full atomic detail structure determination<br/><img src='/images/TCRa.gif'>"
+excerpt: "Characterize biophysical properties or full structure <br/><img src='/images/TCRa.gif'>"
 collection: portfolio
 ---
 
